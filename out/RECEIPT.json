@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-11-07T06:15:16.558596+00:00",
+  "files": {
+    "src/App.tsx": {
+      "sha256": "8031986f4074b201f4f27f5ff62cc2b4a66c4f8b49db1f46b02c4f0ee0d13a64",
+      "bytes": 6132
+    },
+    "src/components/BatchStudio.tsx": {
+      "sha256": "c99d0c912e62973845eb221fcd87f8143dcd6a3f9533798c58731012e4c7a9d0",
+      "bytes": 34240
+    },
+    "src/components/Header.tsx": {
+      "sha256": "985b01b7e85fbe76a4d190e426c28e65662b6ea374de98fca5d631aa9ce3246f",
+      "bytes": 6067
+    },
+    "src/components/SingleStudentStudio.tsx": {
+      "sha256": "34a3549fbe33a0b6dd6043e8c017166ba6edfd8a4ee55bb35bcd72c55a03271c",
+      "bytes": 36976
+    },
+    "src/lib/geminiApi.ts": {
+      "sha256": "d68205f2670f4f4775d2d1a57c506a9c7135254b23dbe4df789eafae1500acc1",
+      "bytes": 33792
+    },
+    "src/types/index.ts": {
+      "sha256": "64ded617d1ef1414e2f9128c5e7930a6b2dd9c2bdeabe5668ac046081a18ee35",
+      "bytes": 3722
+    },
+    "src/components/NeisMiniDock.tsx": {
+      "sha256": "e5cde1838413cba008aa7a3ec85fa041f43a5083d8c15d08b6c4b17ebe69e7b3",
+      "bytes": 9658
+    },
+    "src/components/PlagiarismModal.tsx": {
+      "sha256": "ae04b4d73121d297e01a6c5eac736f83d68528fbe350739878b158e0221614e5",
+      "bytes": 10653
+    },
+    "src/lib/hwpxHelper.ts": {
+      "sha256": "d7c1d2f1a374feba1404b3902715bc591d0f76a8a936020261baaf92e3abc90e",
+      "bytes": 5662
+    },
+    "src/lib/plagiarismMatrix.ts": {
+      "sha256": "e07e1735a395d7d0c16aa8e1fa3badc5dd95ad9c333b12dea7cbc942ac267bd8",
+      "bytes": 7105
+    }
+  }
+}
